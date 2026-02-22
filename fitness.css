@@ -4,7 +4,7 @@ body {
 
 .container {
   display: flex;
-  height: 100vh
+  height: 110vh;
 }
 
 .left-section {
@@ -40,6 +40,7 @@ body {
   display: flex;
   justify-content: center;
   padding: 20px 0;
+  height: auto;
 }
 
 /* Styling Form card */
